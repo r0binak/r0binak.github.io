@@ -2,6 +2,6 @@ Hi! Here you can learn a little about me, as well as about my projects. I am 20 
 
 My developments:
 
-*   [ASM-labs](./another-page.html).
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+*   [ASM-labs](./another-page.html)
+*   Crypto-labs
+
