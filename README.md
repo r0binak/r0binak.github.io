@@ -1,3 +1,6 @@
+whoami
+================================
+
 Hi! Here you can learn a little about me, as well as about my projects. I am 20 years old, I am a student from St. Petersburg. My hobby is reverse engineering, but in my repositories you will see more than just assembly or C code. I also often take part in CTF, there will be some writeups here. I'm studying **information security**, so there will be a lot of interesting things here.
 
 My developments:
