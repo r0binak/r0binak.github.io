@@ -2,6 +2,6 @@ Hi! Here you can learn a little about me, as well as about my projects. I am 20 
 
 My developments:
 
-*   [ASM-labs](./another-page.html)
+*   [ASM-labs](../ASM-labs)
 *   Crypto-labs
 
