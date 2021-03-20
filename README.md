@@ -2,6 +2,6 @@ Hi! Here you can learn a little about me, as well as about my projects. I am 20 
 
 My developments:
 
-*   [ASM-labs](https://github.com/r0binak/ASM-labs/)
+*   [ASM-labs](https://github.com/r0binak/ASM-labs/) (integer calculations, working with vectors, binary tree operations)
 *   Crypto-labs
 
