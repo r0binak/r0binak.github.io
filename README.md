@@ -3,7 +3,8 @@
 
 
 </p>
-<div size='20px'> Hi! My name is Sergey =) 
+<div size='20px'> Hi! My name is Sergey, I am 20 years old. I am a student from Saint-Petersburg, Russia. Studying in the direction of information security, specifically I am engaged in reverse engineering. 
+Sometimes I play CTF, but more often I try to solve more realistic problems. On my github profile, you will find various labs, my own developments, as well as internship projects.
 </div>
 
 <h2> Repositories </h2>
