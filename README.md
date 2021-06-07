@@ -18,7 +18,7 @@ Sometimes I play CTF, but more often I try to solve more realistic problems. On 
 
 - 📘 [Crypto-labs](https://github.com/r0binak/Crypto-labs)
 
-- 💩 [Heap-playground](https://github.com/r0binak/Crypto-labs) 
+- 💩 [Heap-playground](https://github.com/r0binak/Heap-playground) 
 
 <h2> Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'>
