@@ -26,7 +26,7 @@
 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href = 'https://t.me/r0binak'> <img width = '32px' align= 'center' src="https://cdns.iconmonstr.com/wp-content/assets/preview/2018/240/iconmonstr-telegram-1.png"/></a>
+<a href = 'https://t.me/r0binak'> <img width = '32px' align= 'center' src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg"/></a>
 <a href = 'https://www.github.com/r0binak'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
 
 <br>
