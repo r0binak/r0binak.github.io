@@ -11,22 +11,24 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on Reverse engineering, labs and CTF tasks
+- 🔭 [C-labs](https://github.com/r0binak/C-labs)
 
-- 🌱 I’m currently learning Cryptography, Reverse tips and more ...
+- ⚙️ [ASM-labs](https://github.com/r0binak/ASM-labs)
 
+- 📘 [Crypto-labs](https://github.com/r0binak/Crypto-labs)
 
-- 👯 I’m looking to collaborate on Projects,Tech Articles 
-
-- 💬 Talk to me about Python, JavaScript, Freelancing Opportunites, Open Source 
+- 💩 [Heap-playground](https://github.com/r0binak/Crypto-labs) 
 
 <h2> Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'>
-<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> 
+<img width ='32px' src ='https://upload.wikimedia.org/wikipedia/commons/4/48/Netwide_Assembler.svg'>
+<img width ='32px' src ='https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg'>
+<img width ='32px' src ='https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg'> 
 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://t.me/r0binak'> <img width = '32px' align= 'center' src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg"/></a>
+<a href = 'https://vk.com/cllmknbb'> <img width = '32px' align= 'center' src="https://upload.wikimedia.org/wikipedia/commons/2/21/VK.com-logo.svg"/></a>
 <a href = 'mailto:robinak.main@gmail.com'> <img width = '32px' align= 'center' src="https://www.svgrepo.com/show/74921/mail.svg"/></a>
 <a href = 'https://www.github.com/r0binak'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
 
