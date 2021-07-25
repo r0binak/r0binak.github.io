@@ -28,7 +28,6 @@ Sometimes I play CTF, but more often I try to solve more realistic problems. On 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://t.me/r0binak'> <img width = '32px' align= 'center' src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg"/></a>
-<a href = 'https://vk.com/cllmknbb'> <img width = '32px' align= 'center' src="https://upload.wikimedia.org/wikipedia/commons/2/21/VK.com-logo.svg"/></a>
 <a href = 'mailto:robinak.main@gmail.com'> <img width = '32px' align= 'center' src="https://www.svgrepo.com/show/74921/mail.svg"/></a>
 <a href = 'https://www.github.com/r0binak'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
 
