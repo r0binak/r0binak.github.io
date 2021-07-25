@@ -19,11 +19,8 @@ Sometimes I play CTF, but more often I try to solve more realistic problems. On 
 - 📘 [Crypto-labs](https://github.com/r0binak/Crypto-labs)
 
 
-<h2> Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'>
-<img width ='32px' src ='https://upload.wikimedia.org/wikipedia/commons/4/48/Netwide_Assembler.svg'>
-<img width ='32px' src ='https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg'>
-<img width ='32px' src ='https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg'> 
+
+
 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
